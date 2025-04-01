@@ -1,7 +1,7 @@
 # Countdown Timer
 
 ## Description
-This is a simple Countdown Timer project that allows users to set a timer and track the remaining time with an interactive display.
+This is a simple Countdown timer project that allows users to set a timer and track the remaining time with an interactive display.
 
 ## Features
 - Set custom countdown time
